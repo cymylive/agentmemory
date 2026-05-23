@@ -1,0 +1,4 @@
+chromadb
+agentlogger
+psycopg2-binary
+python-dotenv
