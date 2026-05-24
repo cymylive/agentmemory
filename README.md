@@ -1,3 +1,7 @@
+<p align="center">
+  <b>English</b> | <a href="README_zh.md">中文</a>
+</p>
+
 # agentmemory <a href="https://discord.gg/qetWd7J9De"><img style="float: right" src="https://dcbadge.vercel.app/api/server/qetWd7J9De" alt=""></a> <a href="https://github.com/AutonomousResearchGroup/agentmemory/stargazers"><img style="float: right; padding: 5px;" src="https://img.shields.io/github/stars/AutonomousResearchGroup/agentmemory?style=social" alt=""></a>
 
 Easy-to-use memory for agents, document search, knowledge graphing and more.
